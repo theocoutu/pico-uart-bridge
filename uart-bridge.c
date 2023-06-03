@@ -19,7 +19,7 @@
 
 #define BUFFER_SIZE 2560
 
-#define DEF_BIT_RATE 115200
+#define DEF_BIT_RATE 1500000
 #define DEF_STOP_BITS 1
 #define DEF_PARITY 0
 #define DEF_DATA_BITS 8
